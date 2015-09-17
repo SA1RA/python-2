@@ -4,7 +4,7 @@
 from inventory import Inventory
 from entity import Entity
 
-"""Characters
+"""Classes
 
 assassin
 sneaking highdamage _____
@@ -12,16 +12,19 @@ sneaking highdamage _____
 rogue
 speed mediumdamage climbing
 
+
 archer
 range _____ lowdamage
 
 ranger
 speed climbing lowdamage
 
+
 knight
 slow defence mediumdamage
 
-man at arms
+samuri
+speed highdamage
 
 
 mage
@@ -35,3 +38,4 @@ class HasStats():
     defence = 0
     attack = None
     speed = 0
+    
