@@ -15,7 +15,7 @@
     {
     "level": 1,
     "method": "level up",
-    "to: swordsman"
+    "to: man_at_arms"
     }
   ],
   "exp": 1,
@@ -25,7 +25,6 @@
   "weight": = 50,
   "hp": 50,
   "mf-ratio": 87, 5,
-  "moves": [
-  {
+  "moves": [ stab, slash, cut, hack, ]
 
 
