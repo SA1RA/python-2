@@ -1,0 +1,31 @@
+"""normal soldier"""
+
+{
+ "uid": 1,
+  "abilities": [ "Firestab", "IceSlash"]'
+  "types": [ "Longsword", "Broadsword"],
+  "decription": "the normal soldier."
+  "attack": 10,
+  "sp-attack": 20, 
+  "catch-rate": 1,
+  "defence": 5,
+  "sp-defence": 10,
+  "ev-yeild": 1 "Sp Atk",
+  "evolution": [
+    {
+    "level": 1,
+    "method": "level up",
+    "to: swordsman"
+    }
+  ],
+  "exp": 1,
+  "growth-rate": = ms,
+  "happiness": = 1,
+  "height": = 2,
+  "weight": = 50,
+  "hp": 50,
+  "mf-ratio": 87, 5,
+  "moves": [
+  {
+
+
