@@ -1,0 +1,29 @@
+{
+  "name": "gobobushwooki",
+  "uid": "1",
+  "abilities": [ "amush", "thornyhug"],
+  "types": [ "hugger", "ambusher" ],
+  "moves": ["hug", "sneakystrike", "blowdarts" ],
+  "description:": "",
+  "attack": 15,
+  "sp_attack": 20,
+  "species": "goblin",
+  "speed": 25,
+  "total": 60,
+  "catch_rate": 10,
+  "ev_yeild": "1 sp atk",
+  "evolutions": [
+    {
+      "level": "1,
+      "method": "level up",
+      "to": "gobobushslayer"
+    }
+  ],
+  "exp": 1,
+  "growth_rate": "ms",
+  "hppiness": 80,
+  "height": 1.3,
+  "weight": 6.9,
+  "hp": 40,
+  "mf_ratio": 87.5
+}
