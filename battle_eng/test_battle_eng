@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-import pykemon
 
-p = pykemon.get(pokemon="386")
+
+
+
 print(p)
 print(p.hp)
 print(p.attack)
